@@ -1,0 +1,12 @@
+package arrays;
+
+public class arrays {
+public static void main(String [] args) {
+	// syntax
+	//datatype[]variable name= new datatype[size];
+	// store 5 roll num
+	int [] ros;
+	ros= new int[5];
+	System.out.println(ros[1]);
+}
+}

@@ -1,0 +1,16 @@
+package arrays;
+import java.util.Scanner;
+public class input {
+public static void main(String [] args) {
+	Scanner in = new Scanner(System.in);
+	int[] arr= new int[5];
+	arr[1]=233;
+	arr[2]=2343;
+	arr[3]=2339;
+	arr[4]=2533;
+	
+	
+	System.out.println(arr[3]);	
+	}
+}
+

@@ -1,0 +1,16 @@
+package primitives;
+
+public class nitish {
+    public static void main(String [] args) {
+//    	int a = 10;
+//    	if (a== 10);
+//    	System.out.println("hello world");
+    	int count = 11;
+    	while(count!= 5);{
+    		System.out.println(count);
+    		count++;
+    	}
+    	
+    }
+
+}    
